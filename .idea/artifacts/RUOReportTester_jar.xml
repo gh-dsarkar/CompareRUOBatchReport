@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RUOReportTester:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RUOReportTester_jar</output-path>
+    <root id="archive" name="RUOReportTester.jar">
+      <element id="module-output" name="RUOReportTester" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jackson-dataformat-csv-2.13.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jackson-databind-2.13.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/ojdbc8-21.6.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jackson-core-2.13.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/gson-2.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/ibatis-core-3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/poiji-3.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/junit-4.13.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/opencsv-5.5.2 (1).jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-path-2.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

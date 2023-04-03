@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="json-simple-1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/json-simple-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/gson-2.9.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/ibatis-core-3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poiji-3.1.7.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-simple-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/gson-2.8.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1)/jackson-annotations-2.14.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1)/jackson-core-2.14.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1)/jackson-databind-2.14.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/opencsv-5.5.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/junit-4.13.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jdbc-oracle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/ibatis-core-3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

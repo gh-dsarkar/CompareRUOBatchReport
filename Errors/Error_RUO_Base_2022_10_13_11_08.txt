@@ -1,0 +1,127 @@
+Report not matching for Variant Type:Indel and GENE: MSH3:  In Report value for Exon is :=1 in LIMS DB the value is :1 at line 13
+Report not matching for Variant Type:SNV and GENE: AKT1:  In Report value for Exon is :=12 in LIMS DB the value is :12 at line 14
+Report not matching for Variant Type:SNV and GENE: AXL:  In Report value for Exon is :=12 in LIMS DB the value is :12 at line 15
+Report not matching for Variant Type:SNV and GENE: B2M:  In Report value for Exon is :=1 in LIMS DB the value is :1 at line 16
+Report not matching for Variant Type:SNV and GENE: B2M:  In Report value for Exon is :=2 in LIMS DB the value is :2 at line 17
+Report not matching for Variant Type:SNV and GENE: BRCC3:  In Report value for Exon is :=11 in LIMS DB the value is :11 at line 18
+Report not matching for Variant Type:SNV and GENE: BSG:  In Report value for Exon is :=3 in LIMS DB the value is :3 at line 19
+Report not matching for Variant Type:SNV and GENE: CASR:  In Report value for Exon is :=4 in LIMS DB the value is :4 at line 20
+Report not matching for Variant Type:SNV and GENE: CDH6:  In Report value for Exon is :=4 in LIMS DB the value is :4 at line 21
+Report not matching for Variant Type:SNV and GENE: CREBBP:  In Report value for Exon is :=2 in LIMS DB the value is :2 at line 22
+Report not matching for Variant Type:SNV and GENE: DEPDC5:  In Report value for Exon is :=2 in LIMS DB the value is :2 at line 23
+Report not matching for Variant Type:SNV and GENE: DEPTOR:  In Report value for Exon is :=7 in LIMS DB the value is :7 at line 24
+Report not matching for Variant Type:SNV and GENE: ERBB4:  In Report value for Exon is :=12 in LIMS DB the value is :12 at line 25
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for TMB_score is : in LIMS DB the value is :25.84 at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for Cancertype is : in LIMS DB the value is :Breast Carcinoma at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for Plasma_ml_input is :0 in LIMS DB the value is :0.125 at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for Reported_date is :01/01/2021 in LIMS DB the value is : at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for Practice_name is :Breast Carcinoma in LIMS DB the value is :Not Applicable at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for Physician_name is :Not Applicable in LIMS DB the value is :EE17B7 36BEF9 at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for COSMIC is :COSV63245188 in LIMS DB the value is :COSV63245188,COSV63245188 at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for dbSNP is :COSV63245188 in LIMS DB the value is :rs61749896 at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for Bloodcoll_date is : in LIMS DB the value is :01/01/2021 at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for MSI_High is :High in LIMS DB the value is :Not Detected at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for Exon is :=7 in LIMS DB the value is :7 at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for Alleletype is :4 in LIMS DB the value is : at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for ClinVar is :rs61749896 in LIMS DB the value is : at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for Mol_count is : in LIMS DB the value is :2197 at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for cfDNA_ng is :Not Detected in LIMS DB the value is :0 at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for Plasma_ml_remaining is :0.125 in LIMS DB the value is : at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for Max_percentage is :2197 in LIMS DB the value is :4 at line 26
+Report not matching for Variant Type:SNV and GENE: ERCC5:  In Report value for TMB_category is :25.84 in LIMS DB the value is :High at line 26
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for TMB_score is : in LIMS DB the value is :25.84 at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for Cancertype is : in LIMS DB the value is :Breast Carcinoma at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for Plasma_ml_input is :0 in LIMS DB the value is :0.125 at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for Reported_date is :01/01/2021 in LIMS DB the value is : at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for Practice_name is :Breast Carcinoma in LIMS DB the value is :Not Applicable at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for Physician_name is :Not Applicable in LIMS DB the value is :EE17B7 36BEF9 at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for COSMIC is :COSV55896907 in LIMS DB the value is :COSV55896907,COSV55896907 at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for dbSNP is :COSV55896907 in LIMS DB the value is :rs753965187 at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for Bloodcoll_date is : in LIMS DB the value is :01/01/2021 at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for MSI_High is :High in LIMS DB the value is :Not Detected at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for Exon is :=4 in LIMS DB the value is :4 at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for Alleletype is :4 in LIMS DB the value is : at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for ClinVar is :rs753965187 in LIMS DB the value is : at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for Mol_count is : in LIMS DB the value is :1346 at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for cfDNA_ng is :Not Detected in LIMS DB the value is :0 at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for Plasma_ml_remaining is :0.125 in LIMS DB the value is : at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for Max_percentage is :1346 in LIMS DB the value is :4 at line 27
+Report not matching for Variant Type:SNV and GENE: ERF:  In Report value for TMB_category is :25.84 in LIMS DB the value is :High at line 27
+Report not matching for Variant Type:SNV and GENE: FANCI:  In Report value for Exon is :=9 in LIMS DB the value is :9 at line 28
+Report not matching for Variant Type:SNV and GENE: FANCL:  In Report value for Exon is :=11 in LIMS DB the value is :11 at line 29
+Report not matching for Variant Type:SNV and GENE: FCGR3A:  In Report value for Exon is :=3 in LIMS DB the value is :3 at line 30
+Report not matching for Variant Type:SNV and GENE: FGFR2:  In Report value for Exon is :=13 in LIMS DB the value is :13 at line 31
+Report not matching for Variant Type:SNV and GENE: FGFR3:  In Report value for Exon is :=3 in LIMS DB the value is :3 at line 32
+Report not matching for Variant Type:SNV and GENE: FLT4:  In Report value for Exon is :=23 in LIMS DB the value is :23 at line 33
+Report not matching for Variant Type:SNV and GENE: IRF1:  In Report value for Exon is :=4 in LIMS DB the value is :4 at line 34
+Report not matching for Variant Type:SNV and GENE: KAT6B:  In Report value for Exon is :=17 in LIMS DB the value is :17 at line 35
+Report not matching for Variant Type:SNV and GENE: KDM5C:  In Report value for Exon is :=26 in LIMS DB the value is :26 at line 36
+Report not matching for Variant Type:SNV and GENE: KDR:  In Report value for Exon is :=24 in LIMS DB the value is :24 at line 37
+Report not matching for Variant Type:SNV and GENE: KMT2B:  In Report value for Exon is :=31 in LIMS DB the value is :31 at line 38
+Report not matching for Variant Type:SNV and GENE: KMT2D:  In Report value for Exon is :=40 in LIMS DB the value is :40 at line 39
+Report not matching for Variant Type:SNV and GENE: KRAS:  In Report value for Exon is :=2 in LIMS DB the value is :2 at line 40
+Report not matching for Variant Type:SNV and GENE: LTK:  In Report value for Exon is :=18 in LIMS DB the value is :18 at line 41
+Report not matching for Variant Type:SNV and GENE: MET:  In Report value for Exon is :=15 in LIMS DB the value is :15 at line 42
+Report not matching for Variant Type:SNV and GENE: NOTCH1:  In Report value for Exon is :=17 in LIMS DB the value is :17 at line 43
+Report not matching for Variant Type:SNV and GENE: NOTCH2:  In Report value for Exon is :=31 in LIMS DB the value is :31 at line 44
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for TMB_score is : in LIMS DB the value is :25.84 at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for Cancertype is : in LIMS DB the value is :Breast Carcinoma at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for Plasma_ml_input is :0 in LIMS DB the value is :0.125 at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for Reported_date is :01/01/2021 in LIMS DB the value is : at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for Practice_name is :Breast Carcinoma in LIMS DB the value is :Not Applicable at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for Physician_name is :Not Applicable in LIMS DB the value is :EE17B7 36BEF9 at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for COSMIC is :COSV54594721 in LIMS DB the value is :COSV54594721,COSV54594721 at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for dbSNP is :COSV54594721 in LIMS DB the value is :rs1388213392 at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for Bloodcoll_date is : in LIMS DB the value is :01/01/2021 at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for MSI_High is :High in LIMS DB the value is :Not Detected at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for Exon is :=1 in LIMS DB the value is :1 at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for Alleletype is :4 in LIMS DB the value is : at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for ClinVar is :rs1388213392 in LIMS DB the value is : at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for Mol_count is : in LIMS DB the value is :1251 at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for cfDNA_ng is :Not Detected in LIMS DB the value is :0 at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for Plasma_ml_remaining is :0.125 in LIMS DB the value is : at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for Max_percentage is :1251 in LIMS DB the value is :4 at line 45
+Report not matching for Variant Type:SNV and GENE: NTHL1:  In Report value for TMB_category is :25.84 in LIMS DB the value is :High at line 45
+Report not matching for Variant Type:SNV and GENE: NTRK2:  In Report value for Exon is :=5 in LIMS DB the value is :5 at line 46
+Report not matching for Variant Type:SNV and GENE: NUTM1:  In Report value for Exon is :=3 in LIMS DB the value is :3 at line 47
+Report not matching for Variant Type:SNV and GENE: PARG:  In Report value for Exon is :=18 in LIMS DB the value is :18 at line 48
+Report not matching for Variant Type:SNV and GENE: PHLPP1:  In Report value for Exon is :=13 in LIMS DB the value is :13 at line 49
+Report not matching for Variant Type:SNV and GENE: PHLPP2:  In Report value for Exon is :=18 in LIMS DB the value is :18 at line 50
+Report not matching for Variant Type:SNV and GENE: PLEKHS1:  In Report value for Exon is :=2 in LIMS DB the value is :2 at line 51
+Report not matching for Variant Type:SNV and GENE: PREX1:  In Report value for Exon is :=6 in LIMS DB the value is :6 at line 52
+Report not matching for Variant Type:SNV and GENE: PREX1:  In Report value for Exon is :=2 in LIMS DB the value is :2 at line 53
+Report not matching for Variant Type:SNV and GENE: PREX2:  In Report value for Exon is :=24 in LIMS DB the value is :24 at line 54
+Report not matching for Variant Type:SNV and GENE: PTDSS1:  In Report value for Exon is :=9 in LIMS DB the value is :9 at line 55
+Report not matching for Variant Type:SNV and GENE: PTPRS:  In Report value for Exon is :=31 in LIMS DB the value is :31 at line 56
+Report not matching for Variant Type:SNV and GENE: PTPRT:  In Report value for Exon is :=15 in LIMS DB the value is :15 at line 57
+Report not matching for Variant Type:SNV and GENE: RAD21:  In Report value for Exon is :=11 in LIMS DB the value is :11 at line 58
+Report not matching for Variant Type:SNV and GENE: RAD50:  In Report value for Exon is :=11 in LIMS DB the value is :11 at line 59
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for TMB_score is : in LIMS DB the value is :25.84 at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for Cancertype is : in LIMS DB the value is :Breast Carcinoma at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for Plasma_ml_input is :0 in LIMS DB the value is :0.125 at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for Reported_date is :01/01/2021 in LIMS DB the value is : at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for Practice_name is :Breast Carcinoma in LIMS DB the value is :Not Applicable at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for Physician_name is :Not Applicable in LIMS DB the value is :EE17B7 36BEF9 at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for COSMIC is :COSV60005696 in LIMS DB the value is :COSV60005696,COSV60005696 at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for dbSNP is :COSV60005696 in LIMS DB the value is : at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for Functional_impact is :645794 in LIMS DB the value is : at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for ClinVarID is :Uncertain_significance in LIMS DB the value is :645794 at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for Bloodcoll_date is : in LIMS DB the value is :01/01/2021 at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for MSI_High is :High in LIMS DB the value is :Not Detected at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for Exon is :=9 in LIMS DB the value is :9 at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for Alleletype is :4 in LIMS DB the value is : at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for ClinVar is : in LIMS DB the value is :Uncertain_significance at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for Mol_count is : in LIMS DB the value is :1801 at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for cfDNA_ng is :Not Detected in LIMS DB the value is :0 at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for Plasma_ml_remaining is :0.125 in LIMS DB the value is : at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for Max_percentage is :1801 in LIMS DB the value is :4 at line 60
+Report not matching for Variant Type:SNV and GENE: RAD51D:  In Report value for TMB_category is :25.84 in LIMS DB the value is :High at line 60
+Report not matching for Variant Type:SNV and GENE: RAET1L:  In Report value for Exon is :=3 in LIMS DB the value is :3 at line 61
+Report not matching for Variant Type:SNV and GENE: RANBP2:  In Report value for Exon is :=20 in LIMS DB the value is :20 at line 62
+Report not matching for Variant Type:SNV and GENE: RET:  In Report value for Exon is :=5 in LIMS DB the value is :5 at line 63
+Report not matching for Variant Type:SNV and GENE: SOX9:  In Report value for Exon is :=1 in LIMS DB the value is :1 at line 64
+Report not matching for Variant Type:SNV and GENE: TAF1L:  In Report value for Exon is :=1 in LIMS DB the value is :1 at line 65
+Report not matching for Variant Type:SNV and GENE: TERT:  In Report value for Exon is :=1 in LIMS DB the value is :1 at line 66
+Report not matching for Variant Type:SNV and GENE: TERT:  In Report value for Exon is :=1 in LIMS DB the value is :1 at line 67
+Report not matching for Variant Type:SNV and GENE: TP53:  In Report value for Exon is :=8 in LIMS DB the value is :8 at line 68
+Report not matching for Variant Type:SNV and GENE: XPO1:  In Report value for Exon is :=11 in LIMS DB the value is :11 at line 69
